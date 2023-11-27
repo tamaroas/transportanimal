@@ -1,0 +1,1435 @@
+@media (min-width: 1500px) {
+
+    .wowDescription {
+        margin: 0 auto;
+        width: 1358px;
+    }
+
+    #wowslider-container1 .ws_images > div > img {
+        height: auto;
+        max-height: 468px;
+        width: 100% !important;
+        max-width: 100% !important;
+    }
+
+}
+
+
+@media (min-width: 1171px) {
+    h2.textSlideHome {
+        width: 1173px;
+        margin: 0 auto;
+    }
+
+    .blockSlideHome {
+        margin: 0 auto !important;
+        width: 1358px;
+    }
+}
+
+@media (min-width: 1171px) and (max-width: 1238px) {
+    .temoignages .w86 {
+        padding-top: 20px;
+        width: 96%;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1140px) {
+
+
+    .dpe-flexible-posts .image-article a, .image-article {
+        margin-right: 0;
+    }
+
+    .flux {
+        width: 158px;
+    }
+
+}
+
+@media (max-width: 1169px) {
+
+    #wowslider-container1 .ws_bullets {
+        left: 86% !important;
+    }
+
+    .wowDescription {
+        margin: 0 auto;
+        width: 1170px;
+    }
+
+    #wowslider-container1 .ws_images > div > img {
+        height: auto;
+        max-height: 468px;
+        width: 100% !important;
+    }
+
+    .wrapper {
+        width: 100%;
+        padding: 0 10px;
+    }
+
+    .bx-wrapper .bx-prev {
+        left: -16px;
+    }
+
+    .bx-wrapper .bx-next {
+        right: -15px;
+    }
+
+    .bx-wrapper .bx-next {
+        right: 5px;
+    }
+
+    .bx-wrapper .bx-prev {
+        left: 5px;
+    }
+
+    .dernier_articleD {
+        border: 0 none;
+        clear: none !important;
+        display: block !important;
+        float: none !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+        width: auto !important;
+    }
+
+    .image-article a, .image-article {
+        margin-right: 20px;
+    }
+
+    .dpe-flexible-posts .image-article a, .dpe-flexible-posts .image-article {
+        margin-right: 0;
+    }
+
+    .home .resumer-article {
+        padding-left: 0;
+    }
+
+    .temoignages .w86 {
+        padding-top: 20px;
+        width: 96%;
+    }
+
+    .temoignages .image-article a {
+        height: 100px;
+        width: 100px;
+    }
+
+    .temoignages .resumer-article {
+        padding-left: 0px;
+    }
+
+    .blog .temoignages .resumer-article {
+        padding-left: 0;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 1168px) {
+    .home .temoignages .image-article {
+        border-radius: 50%;
+        display: block;
+        height: 100px;
+        overflow: hidden;
+        width: 100px;
+    }
+
+    .home #wowslider-container1 .ws_images .ws_list img, #wowslider-container1 .ws_images > div > img {
+        width: 100%;
+    }
+
+    .home #wowslider-container1 img {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+
+    .textSlideHome {
+        font-size: 2.2em;
+    }
+
+}
+
+@media (min-width: 961px) and (max-width: 1169px) {
+    .jMenu > li:last-child > ul {
+        left: inherit !important;
+        right: 0 !important;
+    }
+
+}
+
+@media (min-width: 769px) and (max-width: 1120px) {
+
+    .miseAvantTexte h2 {
+        font-size: 2em;
+    }
+
+    .miseAvantTexte p {
+        font-size: 1.061em;
+        height: 113px;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+
+    .suite {
+        width: 38%;
+        bottom: 2px;
+    }
+
+    .suitetemoigne {
+        margin-top: 0;
+    }
+
+    .dpe-flexible-posts .dernier_post .suitetemoigne {
+        color: #58acf2;
+        margin-top: 6px;
+    }
+
+    .dpe-flexible-posts h3.titre-resumer-article {
+        font-size: 1em;
+    }
+
+    .miseAvantTexte h2 {
+        font-size: 2.4em;
+        max-height: 92px;
+        overflow: hidden;
+    }
+
+    .miseAvantTexte p {
+        max-height: 98px;
+        overflow: hidden;
+    }
+
+    .apartir {
+        margin-top: 10px;
+    }
+
+    .suite {
+        padding-right: 24px;
+        width: auto;
+    }
+
+    .descrip .lienS {
+        margin-top: 12px;
+    }
+
+    .D_articles .pbl.articles {
+        padding-bottom: 20px;
+    }
+
+    .home h3.titre-voyage {
+        width: 80%;
+    }
+
+    .home .resumer-voyageur {
+        max-height: 60px;
+        overflow: hidden;
+    }
+
+    .temoignages .voyage .toute_les_actus.right {
+        margin-top: 22px;
+    }
+
+    h2.title {
+        font-size: 2em;
+    }
+
+}
+
+@media (min-width: 769px) and (max-width: 1025px) {
+
+    .dpe-flexible-posts .resumer-article {
+        min-height: 112px;
+        overflow: hidden;
+    }
+
+    .dpe-flexible-posts {
+        height: 100% !important;
+    }
+
+
+}
+
+@media (max-width: 1120px) {
+    #block-sidebar .bx-wrapper .bx-prev {
+        left: -102px;
+    }
+
+    .home .dernier_articleD .lirelasuite {
+        margin-top: 21px;
+    }
+
+    #jMenu.jMenu li {
+        padding: 0 7px 0 13px;
+    }
+
+    #block-sidebar .bx-wrapper .bx-next {
+        right: -29px;
+    }
+
+    #jMenu.jMenu li a {
+        font-size: 0.9em;
+    }
+
+    .reponsiveimg {
+        max-height: 330px;
+        overflow: hidden;
+    }
+
+    .suite {
+        margin-bottom: 9px;
+    }
+
+    .blockleft {
+        background: url("../images/left.png") no-repeat scroll 121px 14% rgba(0, 0, 0, 0);
+    }
+
+    .blockright {
+        background: url("../images/right.png") no-repeat scroll 65% 42px rgba(0, 0, 0, 0);
+    }
+
+    .descrip .contenu {
+        height: 97px;
+        line-height: 24px;
+        overflow: hidden;
+        padding-right: 30px;
+    }
+
+    .sommaire .vignette {
+        border-radius: 50%;
+        height: 143px;
+        overflow: hidden;
+        width: 143px;
+    }
+
+    .logo img {
+        max-width: none !important;
+    }
+
+    #click-menu {
+        top: 58px;
+    }
+
+    .blockSlideHome {
+        top: 12%;
+        left: 8px;
+    }
+
+}
+
+@media (min-width: 961px) and (max-width: 1040px) {
+    .menu-menu-principal-container .jMenu li a {
+        font-size: 1em;
+        padding-left: 0;
+        padding-right: 4px;
+    }
+}
+
+@media (min-width: 769px) and (max-width: 960px) {
+    body {
+        float: left;
+        width: 100%;
+    }
+
+    .miseAvantTexte p {
+        height: 53px;
+    }
+
+    .content-area .confiance .resumer-article {
+        max-height: 95px;
+        overflow: hidden;
+    }
+
+    .dpe-flexible-posts .suitetemoigne {
+        display: none;
+    }
+
+    .postflex {
+        color: #434343;
+        font-size: 1.5em;
+    }
+
+    .content-area h3.titre-resumer-article {
+        font-size: 1em;
+        max-height: 60px;
+        overflow: hidden;
+        padding-bottom: 5px;
+    }
+}
+
+@media (min-width: 783px) {
+
+    #click-menu {
+        top: 59px;
+    }
+}
+
+@media (min-width: 768px) {
+
+
+    .mobile_sommaire {
+        display: none;
+    }
+
+    .desctop_sommaire {
+        display: block;
+    }
+
+    #page #click-menu.admin-bar-showing {
+        margin-top: 46px;
+    }
+
+    .dpe-flexible-posts .resumer-article {
+        padding-top: 0;
+    }
+
+    .bxslider5 {
+        min-height: 205px;
+    }
+}
+
+@media (max-width: 1100px) {
+
+    #responsive-menu {
+        z-index: 9999999 !important;
+        top: 43px;
+        background: transparent;
+        box-shadow: none;
+        height: 100%;
+    }
+
+    #responsive-menu .responsive-menu, #responsive-menu div, #responsive-menu .responsive-menu li {
+        background: #fff;
+    }
+
+
+    #click-menu {
+        z-index: 9999999 !important;
+    }
+
+    .destinationmap {
+        height: 542px;
+    }
+}
+
+@media (max-width: 800px) {
+
+}
+
+@media (max-width: 767px) {
+
+    .mobile_sommaire {
+        display: block;
+    }
+
+    .desctop_sommaire {
+        display: none;
+    }
+
+    .sommaire .vignette img {
+        min-width: 100%;
+    }
+
+    .carte {
+        display: none;
+    }
+
+    .home .carte {
+        display: block;
+    }
+
+
+}
+
+
+@media (min-width: 760px) and (max-width: 768px) {
+
+    .home .temoignage .bx-controls-direction a {
+        top: -25px;
+    }
+
+    .home .voyageurhome .bx-controls-direction a {
+        top: -25px;
+    }
+
+    .map-articles .D_articles h2.title {
+        margin-bottom: -2px;
+        position: relative;
+        top: 27px;
+    }
+}
+
+@media (max-width: 768px) {
+    #responsive-menu .responsive-menu li li a {
+        padding-left: 4% !important;
+        width: 100% !important;
+        overflow: hidden !important;
+    }
+
+    .page-template-temoignages #main-content {
+        display: -webkit-box;
+        display: -moz-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        -webkit-box-orient: vertical;
+        -moz-box-orient: vertical;
+        -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+        flex-direction: column;
+        /* optional */
+        -webkit-box-align: start;
+        -moz-box-align: start;
+        -ms-flex-align: start;
+        -webkit-align-items: flex-start;
+        align-items: flex-start;
+    }
+
+    .page-template-temoignages .temside {
+        -webkit-box-ordinal-group: 2;
+        -moz-box-ordinal-group: 2;
+        -ms-flex-order: 2;
+        -webkit-order: 2;
+        order: 2;
+    }
+
+    .page-template-temoignages #primary {
+        -webkit-box-ordinal-group: 1;
+        -moz-box-ordinal-group: 1;
+        -ms-flex-order: 1;
+        -webkit-order: 1;
+        order: 1;
+    }
+
+    body {
+        float: left;
+        width: 100%;
+    }
+
+    .sub_menu_cat {
+        float: left;
+        width: 100%;
+    }
+
+    .contact .wpcf7-form .fieldalign p label {
+        width: 100%;
+    }
+
+    .contact .wpcf7-form .fieldalign p > span {
+        width: 100%;
+    }
+
+    .searchwidget {
+        width: 100%;
+    }
+
+    .screen-reader-text.contact-title > h2 {
+        float: left;
+        margin-top: 15px;
+    }
+
+    .miseAvantTexte p {
+        height: 53px;
+    }
+
+    .apartir {
+        margin-top: 0;
+    }
+
+    .home .temoignages .bx-controls-direction {
+        top: -20px;
+    }
+
+    .ZoneInfo {
+        width: 100% !important;
+    }
+
+    #lang-bdm #lang_sel ul ul, #lang-bdm #lang_sel_click ul ul {
+        left: -5px;
+    }
+
+    #lang-bdm #lang_sel li, #lang-bdm #lang_sel_click li {
+        padding: 0 !important;
+    }
+
+    .confiance.D_articles .image-article a {
+        border-radius: 50%;
+        display: block;
+        height: 100%;
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .textSlideHome {
+        display: none !important;
+    }
+
+    .textSlideHome > span {
+        font-size: 1em;
+    }
+
+    .searchform {
+        background: #0099ff;
+        float: left;
+        padding: 1px;
+        width: 100%;
+    }
+
+    .searchindex {
+        float: none;
+        margin: 0 auto;
+        position: relative;
+        text-align: center;
+        top: 54%;
+        width: 100%;
+        z-index: 9999999;
+    }
+
+    .sliderHomeTop img {
+        width: 100%;
+    }
+
+    .content-area .confiance .resumer-article {
+        max-height: 95px;
+        overflow: hidden;
+        padding-left: 0px;
+    }
+
+    .content-area h3.titre-resumer-article {
+        font-size: 1em;
+        max-height: 60px;
+        overflow: hidden;
+        padding-bottom: 5px;
+    }
+
+    .entry-title {
+        margin-bottom: 0;
+    }
+
+    .dpe-flexible-posts {
+        height: 100% !important;
+    }
+
+    .blog .resumer-article {
+        padding-right: 12px;
+    }
+
+    .blog .image-article a {
+        height: 100%;
+        width: 100%;
+    }
+
+    .blog .image-article {
+        height: 173px;
+        width: 178px;
+    }
+
+    .sidebarCn {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .confiance .image-article a {
+        border-radius: 50%;
+        display: block;
+        height: 100%;
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .smalltxtcenter {
+        text-align: center;
+    }
+
+    .bxslider5 {
+        border-bottom: 1px solid #dfdfdf;
+        /*height: 100%;*/
+        margin-bottom: 15px;
+        margin-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .entry-content {
+        float: left;
+        margin-bottom: 20px;
+    }
+
+    .dpe-flexible-posts .resumer-article {
+        min-height: 109px;
+        overflow: hidden;
+    }
+
+    .dpe-flexible-posts h3.titre-resumer-article {
+        font-size: 1em;
+    }
+
+    .temoignages .temContent {
+        float: none;
+        padding-left: 120px;
+        width: 100%;
+        min-height: 190px;
+    }
+
+    .demande {
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .destination_site .entry-header {
+        padding-bottom: 0;
+        padding-top: 0;
+    }
+
+    .destinataire .entry-title {
+        margin-bottom: 6px;
+    }
+
+    .date-article-single {
+        margin-bottom: 20px;
+        margin-top: 8px;
+    }
+
+    .entry-title-single {
+        font-size: 2em;
+    }
+
+    .site-content {
+        margin-top: 10px;
+        width: 100%;
+    }
+
+    .entry-content.mtl {
+        margin-top: 5px;
+    }
+
+    .miseAvantTexte h2 {
+        font-size: 1.4em;
+        font-weight: lighter;
+        height: 44px;
+        line-height: 22px;
+        overflow: hidden;
+    }
+
+    .suite {
+        width: 45%;
+        bottom: 10px;
+    }
+
+    .miseAvantTexte p {
+        font-size: 1.061em;
+        height: 87px;
+        overflow-x: hidden;
+        overflow-y: hidden;
+    }
+
+    .descrip .contenu {
+        overflow: hidden;
+    }
+
+    .visuel {
+        overflow: hidden;
+    }
+
+    .visuel > img {
+        max-width: none;
+        position: relative;
+        right: 50%;
+    }
+
+    .D_articles .bx-controls-direction, .temoignages .bx-controls-direction {
+        width: 150px;
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+
+
+    .tem_right {
+        border-bottom: 1px solid #aaa;
+        margin-right: 2%;
+        padding-bottom: 25px;
+    }
+
+    .blockright {
+        background: none;
+    }
+
+    .resumer-voyageur {
+        padding-left: 10px;
+    }
+
+    h3.titre-voyage {
+        font-size: 1.28em;
+        font-weight: 700;
+        padding-bottom: 3px;
+        padding-left: 10px;
+        padding-top: 26px;
+        text-transform: uppercase;
+    }
+
+    .blockright .image-voyageurs {
+        text-align: right;
+        float: left;
+        margin-right: 10px;
+    }
+
+    .temoignages .w86 {
+        padding-right: 10px;
+    }
+
+    [class*="autogrid"] > div {
+        width: 23.6% !important;
+    }
+
+    .blockleft {
+        background: none repeat scroll 0 0 rgba(0, 0, 0, 0);
+    }
+
+    .destinationmap {
+        border-right: none;
+        height: 526px;
+    }
+
+    .bxslider2, .bxslider3 {
+        margin-top: 50px;
+    }
+
+    .temoignages .image-article a, .image-article {
+
+        height: 121px;
+        width: 121px;
+    }
+
+    .blog .image-article {
+        height: 121px;
+        width: 121px;
+    }
+
+    .blog .temoignages .image-article a {
+        height: 100%;
+        width: 100%;
+    }
+
+    .resumer-article {
+        padding-left: 152px;
+    }
+
+    .page-template-blog .resumer-article {
+        padding-left: 0px;
+    }
+
+    .dernier_articleD {
+        min-height: 160px;
+    }
+
+    body {
+        font-size: 1.3em;
+    }
+
+
+}
+
+@media (min-width: 769px) and (max-width: 889px) {
+    .blockleft .w70.temContent {
+        float: none;
+        padding-left: 130px;
+        width: auto;
+    }
+
+    .blockright .w70.temContent {
+        float: none;
+        padding-right: 130px;
+        width: auto;
+    }
+
+    .blockright {
+        background: url("../images/right.png") no-repeat scroll 59% 42px rgba(0, 0, 0, 0);
+    }
+
+    .width100 {
+        width: 100% !important;
+    }
+
+    .image-article a {
+        margin: 0 auto;
+    }
+
+    body {
+        font-size: 1.35em;
+    }
+
+    /*.resumer-voyageur {
+        float: none;
+        padding-right: 157px;
+        width: auto;
+    }
+    .resumer-voyageur, .titre-voyage {
+        float: none;
+        padding-right: 157px;
+        width: auto;
+    }
+    */
+}
+
+
+@media (max-width: 640px) {
+    .contact .wpcf7-form label {
+        width: 100%;
+    }
+
+    .wpcf7-form-control-wrap {
+        width: 100%;
+    }
+
+    .wpcf7-form-control-wrap.message {
+        float: left;
+        width: 100%;
+    }
+
+    .contact .entry-content div.wpcf7-validation-errors {
+        float: left;
+        margin: 10px 0 0;
+        width: 100%;
+    }
+
+    .suite {
+        bottom: 10px;
+        font-size: 0;
+        height: 13%;
+        width: 45%;
+    }
+
+    .mensurations {
+        width: 100%;
+    }
+
+    .cageDimention {
+        float: none;
+        height: 233px;
+        margin: 0 auto;
+        position: relative;
+        width: 277px;
+    }
+
+    .CDimention {
+        float: left;
+        text-align: center;
+        width: 100%;
+    }
+
+
+    .searchform .screen-reader-text {
+        width: 30%;
+    }
+
+    .blockMiseEnavant {
+        margin-top: 5px;
+    }
+
+}
+
+@media (max-width: 480px) {
+    .BarTopHeader {
+        padding-bottom: 43px;
+    }
+    #header_phone .titlephone {
+        float: none;
+    }
+    .entry-content img {
+        margin: 0;
+    }
+    .legenderond > img {
+        width: 57%;
+    }
+
+    .legenderond.number {
+        font-size: 2em;
+    }
+
+    .menu-menu-header-top-container {
+        position: relative;
+        left: 0;
+    }
+
+    .menu-menu-header-top-en0-container {
+        left: -5px;
+        position: relative;
+    }
+
+    .miseAvantTexte > a {
+        background: none repeat scroll 0 0 rgba(232, 192, 58, 0.8);
+    }
+
+    .searchform .screen-reader-text {
+        width: 100%;
+    }
+
+    .MenuTopHeader .menu-menu-header-top-container, .MenuTopHeader .menu-menu-header-top-en0-container {
+        background: none repeat scroll 0 0 #e8b70c;
+        padding: 3px;
+        text-align: center;
+    }
+
+    .MenuTopHeader.right.unstyled li.devis {
+        padding: 0 15.6px;
+        width: 100%;
+    }
+
+    .searchindex .wrapper {
+        padding: 0;
+    }
+
+    .searchform {
+        background: none repeat scroll 0 0 #0099ff;
+    }
+
+    .searchindex {
+        position: relative;
+    }
+
+    .screen-reader-text {
+        padding: 27px 16px 1px 23px;
+    }
+
+    .ui-widget {
+        width: 100%;
+    }
+
+    #searchform input {
+        float: none;
+        height: 40px;
+        margin: 23px auto 20px;
+        width: 279px;
+    }
+
+    .custom-combobox {
+        display: block;
+        margin: 0 auto;
+        text-align: center;
+        width: 280px;
+        position: relative;
+    }
+
+    .custom-combobox a.ui-widget {
+        display: block;
+        height: 39px;
+        left: 245px;
+        opacity: 0;
+        position: absolute;
+        top: 22px;
+        width: 30px;
+    }
+
+    .blog .image-article {
+        height: 100px;
+        width: 100px;
+    }
+
+    .ui-widget-content {
+        width: 279px;
+    }
+
+    .blog .resumer-article {
+        padding-right: 12px;
+    }
+
+    .searchwidget {
+        padding-bottom: 20px;
+        margin-bottom: 0;
+    }
+
+    .home.blog .resumer-article {
+        padding-left: 0;
+    }
+
+    .confiance.D_articles .resumer-article {
+        padding-left: 0px;
+        padding-right: 12px;
+    }
+
+    .content-area .confiance .resumer-article {
+        min-height: 99px;
+    }
+
+    .temright {
+        float: right;
+        padding-right: 0;
+        width: 53%;
+    }
+
+    body {
+        font-size: 1.2em;
+        min-width: 320px;
+
+    }
+
+    .Devi_header_top {
+        background: none repeat scroll 0 0 #e8b70c;
+        padding: 4px 25px !important;
+    }
+
+    [class*="autogrid"] > .legende {
+        width: 23.6% !important;
+    }
+
+    .txtlegend {
+        font-size: 1em;
+    }
+
+    .lege {
+        height: 65px;
+        width: 65px;
+    }
+
+    .legenderond {
+        height: 65px;
+        width: 65px;
+    }
+
+    .resumer-article {
+        padding-left: 108px;
+        padding-right: 12px;
+    }
+
+    .D_articles .bx-controls-direction {
+        position: absolute;
+        right: 0;
+        top: 10px;
+        width: 150px;
+    }
+
+    .bxslider2, .bxslider3 {
+        margin-top: 0;
+    }
+
+    .dernier_articleD {
+        min-height: inherit;
+    }
+
+    .temoignages .temContent {
+        min-height: inherit;
+    }
+
+    .destinationmap {
+        border-right: medium none;
+        height: 380px;
+    }
+
+    #world-map {
+        height: 317px !important;
+    }
+
+    .jvectormap-container {
+        background-color: transparent !important;
+        margin-top: -60px;
+    }
+
+    .toute_les_destinataire {
+        display: none;
+    }
+
+    .fleshD a {
+        background: url("../images/suiteD.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+        display: block;
+        height: 50px;
+        margin-top: -53px;
+        position: relative;
+        width: 49px;
+        z-index: 99999;
+    }
+
+    .sommaire .vignette {
+        border-radius: 50%;
+        height: 111px;
+        overflow: hidden;
+        width: 111px;
+    }
+
+    .miseAvantTexte h2 {
+        font-size: 2.5em;
+        font-weight: lighter;
+        height: auto;
+        line-height: 46px;
+        overflow: hidden;
+    }
+
+    .miseAvantTexte {
+        width: 100%;
+    }
+
+    .mise1 > img {
+        width: 100%;
+    }
+
+    .mise1 {
+        margin-right: 1%;
+        position: relative;
+        height: 136px;
+        overflow: hidden;
+        margin-bottom: 6px;
+    }
+
+    .suite {
+        bottom: 0px;
+        font-size: 0;
+        height: 100%;
+        width: 45%;
+    }
+
+    h2.title {
+        font-size: 1.7em;
+    }
+
+    .apartir {
+        color: #0099ff;
+        font-size: 2.09em;
+        margin-top: 12px;
+        padding: 0 20px;
+    }
+
+    .descrip .lienS {
+        font-size: 0.9em;
+
+    }
+
+    .descrip {
+        padding: 11px 17px 20px 8px;
+    }
+
+    .jvectormap-zoomin, .jvectormap-zoomout {
+        display: none;
+    }
+
+    .image-article a, .image-article {
+        border-radius: 50%;
+        display: block;
+        height: 100px;
+        overflow: hidden;
+        width: 100px;
+    }
+
+    .D_articles {
+        padding-left: 0;
+    }
+
+    .image-voyageurs a, .image-voyageurs {
+        border-radius: 50%;
+        display: block;
+        height: 100px;
+        overflow: hidden;
+        width: 100px;
+    }
+
+}
+
+@media (max-width: 480px) {
+    #block-sidebar .bx-wrapper .bx-prev {
+        left: -39px;
+    }
+
+    fieldset .wpcf7-form-control-wrap {
+        width: 100%;
+    }
+
+    .wpcf7-form-control-wrap.cage_1 {
+        width: 100%;
+    }
+
+    .wpcf7-form-control-wrap.reach_time1 {
+        width: 48%;
+    }
+
+    .wpcf7-form-control-wrap.reach_time2 {
+        width: 48%;
+    }
+
+    #uniform-response_lang {
+        width: 100% !important;
+    }
+
+    h3.titre-resumer-article {
+        font-size: 1.1em;
+    }
+
+    #searchform.searchform2 input {
+        float: left;
+        width: 240px;
+    }
+
+    .Slide-n .descrip {
+        width: 100% !important;
+    }
+
+    .descrip .lienS {
+        margin-top: 6px;
+        margin: 0 auto;
+        float: none;
+        right: -5px;
+        text-align: center;
+        position: static;
+    }
+
+    .Slide-n h2.title {
+        font-size: 2em;
+        padding: 0 34px;
+    }
+
+    .txtlegend {
+        font-size: 0.7em;
+    }
+
+    .footer-top {
+        background: #2b2b2b;
+        padding-bottom: 0;
+    }
+
+    .site-footer a {
+        font-size: 0.8em;
+    }
+
+    .textMap {
+        padding-right: 0px;
+    }
+
+    .descrip .contenu {
+        overflow: hidden;
+        padding: 0 34px;
+    }
+
+    .descrip .lienS {
+        margin-top: 6px;
+    }
+
+    .D_articles {
+    }
+
+    .temoignages .bx-wrapper .bx-controls-direction a {
+        margin-top: -20px;
+    }
+
+    .temoignages .bx-wrapper .bx-prev {
+        left: 80px;
+    }
+
+    .bxslider4 {
+    }
+
+    .D_articles .bx-controls-direction, .temoignages .bx-controls-direction {
+        top: 5px;
+    }
+
+    .descrip {
+        max-height: inherit !important;
+    }
+
+    .bx-wrapper .bx-controls-direction a {
+        width: 29px;
+        height: 29px;
+        background-size: 29px 29px;
+    }
+
+    .temoignages .w86 {
+        margin-bottom: 15px;
+    }
+
+    .home h3.titre-voyage {
+        max-height: 70px;
+    }
+
+    h3.titre-resumer-article {
+        max-height: 54px;
+    }
+
+    .D_articles .bx-wrapper .bx-prev {
+        left: 80px;
+    }
+
+    .D_articles .bx-wrapper .bx-controls-direction a {
+        margin-top: -43px;
+    }
+
+    .home .carte {
+        border-bottom: 1px solid #aaa;
+        margin-bottom: 10px;
+    }
+
+    .home .valeurs {
+        margin-top: 0;
+    }
+
+    .Slide-n .visuel {
+        height: 170px;
+        overflow: hidden;
+        width: 100% !important;
+    }
+
+    .visuel > img {
+        max-width: none;
+        position: relative;
+        right: 20%;
+        top: -30%;
+    }
+
+    .searchform {
+        margin-top: 0;
+    }
+
+    .bxslider5 .bx-controls-direction {
+        right: 35px;
+    }
+
+    .bxslider5 .bx-wrapper .bx-controls-direction a {
+        margin-top: -25px;
+    }
+}
+
+
+@media (max-width: 440px) {
+    .entry-title {
+        font-size: 2em;
+    }
+
+    .destinationmap {
+        height: 420px;
+    }
+
+    .temoignages .bx-wrapper .bx-controls-direction a {
+        margin-top: -34px;
+    }
+
+    .home .temoignages .bx-controls-direction {
+        top: 0;
+    }
+
+    div.selector span {
+        width: 100% !important;
+    }
+
+    .dpe-flexible-posts .resumer-article {
+        min-height: 111px;
+        overflow: hidden;
+    }
+
+    .temoignages .temContent {
+        min-height: 150px;
+    }
+
+    .bxslider5 .bx-wrapper .bx-controls-direction a {
+        margin-top: -25px;
+    }
+}
+
+
+@media (max-width: 355px) {
+
+    .sommaire .vignette {
+        border-radius: 50%;
+        height: 99px;
+        overflow: hidden;
+        width: 99px;
+    }
+
+    .phone {
+        font-size: 1em;
+    }
+}
