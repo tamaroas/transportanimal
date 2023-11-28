@@ -36,4 +36,4 @@ jobs:
                 docker rm IAA || true
                 docker rmi transportanimal || true
                 docker build -t transportanimal .
-                docker run -d -p 80:80 --name IAA transportanimal
+                docker run -d -p 8500:80 --name IAA transportanimal
